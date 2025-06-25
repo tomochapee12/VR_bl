@@ -72,4 +72,6 @@ Unity6000.0.46f1でViveProを用いて実現
 
   StartButton.cs / ResetButton.cs: プレイヤーが掴むことでゲームの各機能を呼び出すボタンのロジック。
 
+  font Noto_Sans_JP
+
 </details>
